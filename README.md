@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Saleh Govashiri 👋
 
-<!--
-**salehgovashiri88-alt/salehgovashiri88-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student from Kerman, Iran 🔐
+I'm learning how systems break so I can learn how to defend them.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Python
+- **Networking:** TCP/IP, network fundamentals
+- **OS:** Linux
+- **Interests:** Ethical hacking, Red Team, Web security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal
+Becoming a professional security specialist (long-term goal: CISO).
+Open to junior / internship opportunities.
+
+## 📫 Contact
+- LinkedIn: [Saleh Govashiri](https://www.linkedin.com/in/saleh-govashiri-b8115943b)
+- Email: salehgovashiri88@gmail.com
